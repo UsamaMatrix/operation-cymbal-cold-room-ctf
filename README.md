@@ -2,6 +2,8 @@
 
 **Hack The Box CTF | Google Cloud Security Community**
 
+![Operation Cymbal completion](assets/completion-dashboard.png)
+
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Flags](https://img.shields.io/badge/Flags-18%2F18-blue)
 ![Scenarios](https://img.shields.io/badge/Scenarios-3%2F3-purple)
